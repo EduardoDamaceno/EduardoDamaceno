@@ -1,5 +1,3 @@
-<img src="a.jpg" align="right" min-width="300px" max-width="700px" width="300px">
-
 <p align="left">
   <strong>Olá! 👋</strong>   
 </p>
