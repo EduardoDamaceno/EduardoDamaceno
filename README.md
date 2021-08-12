@@ -7,7 +7,7 @@
 <hr>
 
 <p align="left">
-  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>.
+  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>CSS Flex Box</strong>.
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  🌱 Estudando atualmente: <strong>JavaScript</strong>,  <strong>CSS SSAS</strong> e <strong>CSS Flex Box</strong>.
+  🌱 Estudando atualmente: <strong>JavaScript</strong>,  <strong>CSS SSAS</strong> e <strong>CSS Grid Layout</strong>.
 </p>
 
 <p align="center">
