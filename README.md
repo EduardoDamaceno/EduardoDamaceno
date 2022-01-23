@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  🌱 Estudando atualmente: <strong>JavaScript</strong>,  <strong>CSS SSAS</strong> e <strong>UI and UX</strong>.
+  🌱 Estudando atualmente: <strong>JavaScript</strong>,  <strong>CSS SSAS</strong>, <strong>UI<strong> e <strong>UX<strong>.
 </p>
 
 <p align="center">
