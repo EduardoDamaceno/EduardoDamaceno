@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Photoshop</strong>, <strong>Adobe XD</strong>, <strong>Git</strong> e <strong>Github</strong>.
+  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Photoshop</strong>, <strong>Figma</strong>, <strong>Git</strong> e <strong>Github</strong>.
 </p>
 
 <p align="left">
-  🌱 Estudando atualmente: <strong>JavaScript</strong>,  <strong>CSS SSAS</strong> e <strong>CSS Grid Layout</strong>.
+  🌱 Estudando atualmente: <strong>JavaScript</strong>,  <strong>CSS SSAS</strong> e <strong>UI and UX</strong>.
 </p>
 
 <p align="center">
